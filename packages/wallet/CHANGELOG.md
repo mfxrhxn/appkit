@@ -1,5 +1,15 @@
 # @reown/appkit-wallet
 
+## 1.5.4
+
+### Patch Changes
+
+- [#3350](https://github.com/reown-com/appkit/pull/3350) [`0c55e65`](https://github.com/reown-com/appkit/commit/0c55e6576da71a7aa5922a02ff489184bf65c026) Thanks [@zoruka](https://github.com/zoruka)! - Add SIWX BIP122Verifier
+
+- Updated dependencies [[`0c55e65`](https://github.com/reown-com/appkit/commit/0c55e6576da71a7aa5922a02ff489184bf65c026)]:
+  - @reown/appkit-polyfills@1.5.4
+  - @reown/appkit-common@1.5.4
+
 ## 1.5.3
 
 ### Patch Changes
